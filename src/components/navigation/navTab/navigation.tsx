@@ -6,7 +6,6 @@ import { BsPerson } from "react-icons/bs";
 import { RiShirtLine } from "react-icons/ri";
 import {RiLogoutBoxRFill } from "react-icons/ri";
 import {AiOutlineShoppingCart } from "react-icons/ai";
-import {AiOutlineMenuFold } from "react-icons/ai";
 import '../../../../src/App.css';
 import { Link } from 'react-router-dom';
 import './navTab.css';
