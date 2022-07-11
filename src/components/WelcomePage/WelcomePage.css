@@ -1,0 +1,68 @@
+
+.Poster_container{
+width: 100%;
+background-color: white;
+}
+  
+.card_title{
+    font-family: cursive;
+  
+}
+
+.cards{
+    display:inline-flex;
+    width: 50%;
+    border: none;
+   
+}
+
+
+.cardImg{
+    width: 100%;
+     height: 200px;
+     object-fit: cover;
+}
+
+.cardImg2{
+    width: 250px;
+     height: 200px;
+}
+
+
+.item{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mybtn{
+    color: white;
+    background-color: #1976d2;
+    font-family:  sans-serif;
+    font-weight: bold;
+    border: none;
+    border-color: #1976d2;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+.mybtn2{
+    color: white;
+    background-color: #e65151;
+    font-family:  sans-serif;
+    font-weight: bold;
+    border: none;
+    border-color: #1976d2;
+    border-bottom-left-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+.orderCon{
+    background-color: #e3f2fd;
+    border-radius: 12px;
+
+}
+
+.btns{
+        letter-spacing:2px;
+        padding:15px 10px;
+}

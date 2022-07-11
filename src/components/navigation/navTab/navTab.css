@@ -1,0 +1,50 @@
+    /*set all h2 text inside second div Nav-text */
+.h-text{
+        display:inline-block;
+        letter-spacing:2px;
+        padding:10px 20px;
+        color: #1976d2;
+    }
+
+    /*set h2 style for company name and logo*/
+.LogoAndText{
+        display:inline-block;
+        font-weight: bold;
+        font-family:cursive;
+    
+    }
+.nav-container{
+        width: 93%;
+        border-radius: 25px;
+        margin-top: 1%;
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);      
+        background-color: #e3f2fd;
+    
+    }
+  
+ img{
+     width: 35px;
+     height: 38px;
+ }   
+
+ .link{
+
+     text-decoration: none;
+     
+ }
+
+ .logout{
+     font-family: cursive;
+ }
+
+ 
+
+
+
+
+
+
+
+

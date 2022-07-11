@@ -1,0 +1,27 @@
+.userPic{
+    width: 100%;
+     height: 250px;
+     object-fit: cover;
+     border-radius: 25px;
+}
+
+.userDetails{
+    margin-top: 2%;
+}
+
+.cardtext{
+    text-align: center;
+
+}
+.link_company{
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    width: 19px;
+   font-size: 20px;
+}
+
+.ceo{
+    text-decoration: none;
+}
